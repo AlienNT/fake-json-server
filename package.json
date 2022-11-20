@@ -1,0 +1,14 @@
+{
+  "name": "fake-json-server",
+  "version": "1.0.0",
+  "description": "fake database and REST api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mykyta Trysten (AlienNT)",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
